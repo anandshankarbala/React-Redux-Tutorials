@@ -5,3 +5,6 @@
 npm init --yes
 
 npm install redux
+
+node index
+
